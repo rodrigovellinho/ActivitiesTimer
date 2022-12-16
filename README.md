@@ -40,7 +40,8 @@ npm run dev
 - **[React Hook Form](https://react-hook-form.com/)**
 - **[Styled Components](https://styled-components.com/)**
 - **[Date fns](https://date-fns.org/)**
-- **[Phosphor Icons](https://phosphoricons.com/)**
+- **[Phosphor Icons](https://phosphoricons.com/)** 
+- **[Zod](https://github.com/colinhacks/zod)**
 <br>
 
 ---
